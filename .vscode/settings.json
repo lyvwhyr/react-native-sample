@@ -1,0 +1,32 @@
+{
+  "cSpell.words": [
+    "kanvas",
+    "unmount",
+    "vods"
+  ],
+  "editor.autoIndent": true,
+  "editor.trimAutoWhitespace": true,
+  "editor.renderWhitespace": "all",
+  "breadcrumbs.enabled": true,
+  "editor.renderIndentGuides": true,
+  "files.trimTrailingWhitespace": true,
+  "window.zoomLevel": -1,
+  "editor.fontSize": 15,
+  "editor.renderControlCharacters": true,
+  "editor.minimap.enabled": true,
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "cSpell.allowCompoundWords": true,
+  "editor.formatOnSave": true,
+  "colorize.files_extensions": [
+    ".tsx"
+  ],
+  "eslint.enable": false,
+  "typescript.format.enable": true,
+  "tslint.autoFixOnSave": true,
+  "tslint.enable": true,
+  "tslint.packageManager": "yarn",
+  "tslint.alwaysShowStatus": true
+}

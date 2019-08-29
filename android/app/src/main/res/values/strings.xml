@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">liveKanvas</string>
+    <string name="facebook_app_id">1184203431729571</string>
+    <string name="fb_login_protocol_scheme">fb1184203431729571</string>
+</resources>
