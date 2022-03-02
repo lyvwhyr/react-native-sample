@@ -20,7 +20,7 @@
   "dependencies": {
     "adm-zip": "^0.4.13",
     "moment": "^2.22.2",
-    "plist": "^3.0.1",
+    "plist": "^3.0.4",
     "react": "16.6.3",
     "react-native": "0.57.5",
     "react-native-af-video-player": "^0.2.1",
